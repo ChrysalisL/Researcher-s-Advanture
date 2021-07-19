@@ -7,4 +7,4 @@ This is the class project for CSCI 4455 (Computer Game Dsgn&Progrmng), Fall 2019
 2.Exact and run.
 
 ## Download the project
-Please visit this project's [release page](https://github.com/skyguidance/ArxivPaperReader/releases) for more details.<br>
+Please visit this project's [release page](https://github.com/ChrysalisL/Researcher-s-Advanture/releases) for more details.<br>
